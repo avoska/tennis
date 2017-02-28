@@ -428,11 +428,12 @@
             <div class="col-xs-6 is-white-color is-font-size-14">
                 2017 © Grodno.Tennis - Все права защищены. - Privacy - Rules.
              </div>
-             <div class="col-xs-1">
+             <div class="col-xs-1 col-sm-offset-2">
+                 <img class="comming-soon" src="/resources/assets/img/coming-soon-appstore.png">
 
              </div>
-             <div class="col-xs-1">
-
+             <div class="col-xs-1 is-margin-left-20 ">
+                 <img class="comming-soon" src="/resources/assets/img/coming-soon-google.png">
              </div>
         </div>
     </div>
